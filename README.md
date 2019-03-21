@@ -41,7 +41,7 @@ However, the packages listed above are required at runtime.
  1. Make sure port 55550 UDP isn't blocked by a firewall. (`sudo ufw allow 55550/udp`)
  2. Start the server, from within the server folder. (`cd server; ./server`)
  3. Enter your IP address into the "serveraddr" field of 3ds-remote-linux.ini
- 4. Place 3ds-remote-linux.ini on your SD card in: "3ds/3ds-remote-linux/3ds-remote-linux.ini"
+ 4. Place 3ds-remote-linux.ini on your SD card in: "<SDROOT>/3ds/3ds/3ds-remote-linux/3ds-remote-linux.ini"
  5. Start 3ds-remote-linux on your 3ds.
  
 ### GUI
